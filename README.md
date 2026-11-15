@@ -453,19 +453,7 @@ tidak saling memengaruhi.
 
 ---
 
-## Lisensi
 
-Didistribusikan di bawah **MIT License**. Lihat [`LICENSE`](LICENSE) untuk teks lengkap.
-
-```text
-MIT License · Copyright (c) 2026 Machobotak
-
-Izinkan penggunaan, penyalinan, modifikasi, penggabungan, publikasi,
-distribusi, sublisensi, dan penjualan salinan perangkat lunak ini secara
-bebas, dengan menyertakan pemberitahuan hak cipta dan lisensi.
-
-Perangkat lunak disediakan "AS IS", tanpa jaminan dalam bentuk apa pun.
-```
 
 <div align="center">
 
